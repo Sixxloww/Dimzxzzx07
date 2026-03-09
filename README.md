@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
     <img src="https://i.imgur.com/aPSNrKE.png" alt="Dimzxzzx07 Logo" width="200">
     <br>
